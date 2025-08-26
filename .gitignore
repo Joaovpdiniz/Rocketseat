@@ -1,0 +1,10 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Binários e pastas de build
+bin/
+obj/
